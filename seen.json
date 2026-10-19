@@ -5,5 +5,12 @@
     "https://www.inli.fr/locations/offres/val-de-marne-departement_d:94?price_max=800",
     "https://www.inli.fr/locations/offres/paris-departement_d:75?price_max=800"
   ],
-  "seen": {}
+  "seen": {
+    "PRV-241455": {
+      "first_seen": "2026-10-19T17:03:08+00:00",
+      "last_seen": "2026-10-19T17:03:08+00:00",
+      "summary": "Vitry Sur Seine (94400) · 682 € cc · Studio · 28 m²",
+      "url": "https://www.inli.fr/location-appartement-vitry-sur-seine-94400/PRV-241455"
+    }
+  }
 }
