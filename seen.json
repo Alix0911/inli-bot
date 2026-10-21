@@ -6,11 +6,35 @@
     "https://www.inli.fr/locations/offres/paris-departement_d:75?price_max=800"
   ],
   "seen": {
+    "441-20021-1017": {
+      "first_seen": "2026-10-21T18:56:58+00:00",
+      "last_seen": "2026-10-21T18:56:58+00:00",
+      "summary": "Villejuif (94800) · 684 € cc · Studio · 31.46 m²",
+      "url": "https://www.inli.fr/location-appartement-villejuif-94800/441-20021-1017"
+    },
     "441-20059-1004": {
       "first_seen": "2026-10-20T18:37:00+00:00",
       "last_seen": "2026-10-21T00:10:26+00:00",
       "summary": "Ivry Sur Seine (94200) · 772 € cc · Studio · 36.55 m²",
       "url": "https://www.inli.fr/location-appartement-ivry-sur-seine-94200/441-20059-1004"
+    },
+    "654-20055-1001": {
+      "first_seen": "2026-10-21T18:56:58+00:00",
+      "last_seen": "2026-10-21T18:56:58+00:00",
+      "summary": "Colombes (92700) · 787 € cc · Studio · 29.3 m²",
+      "url": "https://www.inli.fr/location-appartement-colombes-92700/654-20055-1001"
+    },
+    "654-20068-2005": {
+      "first_seen": "2026-10-21T18:56:58+00:00",
+      "last_seen": "2026-10-21T18:56:58+00:00",
+      "summary": "Colombes (92700) · 770 € cc · 2 pièces · 38.1 m²",
+      "url": "https://www.inli.fr/location-appartement-colombes-92700/654-20068-2005"
+    },
+    "PRV-057523": {
+      "first_seen": "2026-10-21T18:56:58+00:00",
+      "last_seen": "2026-10-21T18:56:58+00:00",
+      "summary": "Creteil (94000) · 605 € cc · Studio · 29.7 m²",
+      "url": "https://www.inli.fr/location-appartement-creteil-94000/PRV-057523"
     },
     "PRV-241455": {
       "first_seen": "2026-10-19T17:03:08+00:00",
@@ -18,11 +42,23 @@
       "summary": "Vitry Sur Seine (94400) · 682 € cc · Studio · 28 m²",
       "url": "https://www.inli.fr/location-appartement-vitry-sur-seine-94400/PRV-241455"
     },
+    "PRV-275594": {
+      "first_seen": "2026-10-21T18:56:58+00:00",
+      "last_seen": "2026-10-21T18:56:58+00:00",
+      "summary": "Villeneuve La Garenne (92390) · 707 € cc · Studio · 32 m²",
+      "url": "https://www.inli.fr/location-appartement-villeneuve-la-garenne-92390/PRV-275594"
+    },
     "PRV-318128": {
       "first_seen": "2026-10-20T18:37:00+00:00",
       "last_seen": "2026-10-21T00:10:26+00:00",
       "summary": "Fontenay Aux Roses (92260) · 654 € cc · Studio · 26 m²",
       "url": "https://www.inli.fr/location-appartement-fontenay-aux-roses-92260/PRV-318128"
+    },
+    "PRV-346802": {
+      "first_seen": "2026-10-21T18:56:58+00:00",
+      "last_seen": "2026-10-21T18:56:58+00:00",
+      "summary": "Champigny Sur Marne (94500) · 631 € cc · 2 pièces · 37.2 m²",
+      "url": "https://www.inli.fr/location-appartement-champigny-sur-marne-94500/PRV-346802"
     }
   }
 }
