@@ -42,9 +42,15 @@
       "summary": "Vitry Sur Seine (94400) · 682 € cc · Studio · 28 m²",
       "url": "https://www.inli.fr/location-appartement-vitry-sur-seine-94400/PRV-241455"
     },
+    "PRV-250567": {
+      "first_seen": "2026-10-27T20:17:03+00:00",
+      "last_seen": "2026-10-27T20:17:03+00:00",
+      "summary": "Paris (75020) · 607 € cc · Studio · 31 m²",
+      "url": "https://www.inli.fr/location-appartement-paris-75020/PRV-250567"
+    },
     "PRV-254340": {
       "first_seen": "2026-10-26T21:16:47+00:00",
-      "last_seen": "2026-10-27T15:50:43+00:00",
+      "last_seen": "2026-10-27T20:17:03+00:00",
       "summary": "Ablon Sur Seine (94480) · 771 € cc · Studio · 36 m²",
       "url": "https://www.inli.fr/location-appartement-ablon-sur-seine-94480/PRV-254340"
     },
@@ -60,6 +66,12 @@
       "summary": "Fontenay Aux Roses (92260) · 654 € cc · Studio · 26 m²",
       "url": "https://www.inli.fr/location-appartement-fontenay-aux-roses-92260/PRV-318128"
     },
+    "PRV-329233": {
+      "first_seen": "2026-10-27T20:17:03+00:00",
+      "last_seen": "2026-10-27T20:17:03+00:00",
+      "summary": "Suresnes (92150) · 567 € cc · Studio · 28.29 m²",
+      "url": "https://www.inli.fr/location-appartement-suresnes-92150/PRV-329233"
+    },
     "PRV-329475": {
       "first_seen": "2026-10-23T18:31:27+00:00",
       "last_seen": "2026-10-24T16:44:35+00:00",
@@ -71,6 +83,12 @@
       "last_seen": "2026-10-22T00:36:14+00:00",
       "summary": "Champigny Sur Marne (94500) · 631 € cc · 2 pièces · 37.2 m²",
       "url": "https://www.inli.fr/location-appartement-champigny-sur-marne-94500/PRV-346802"
+    },
+    "PRV-354477": {
+      "first_seen": "2026-10-27T20:17:03+00:00",
+      "last_seen": "2026-10-27T20:17:03+00:00",
+      "summary": "Fresnes (94260) · 600 € cc · Studio · 25.8 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-354477"
     }
   }
 }
