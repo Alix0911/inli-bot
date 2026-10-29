@@ -66,6 +66,12 @@
       "summary": "Fontenay Aux Roses (92260) · 654 € cc · Studio · 26 m²",
       "url": "https://www.inli.fr/location-appartement-fontenay-aux-roses-92260/PRV-318128"
     },
+    "PRV-323115": {
+      "first_seen": "2026-10-29T21:54:00+00:00",
+      "last_seen": "2026-10-29T21:54:00+00:00",
+      "summary": "Fresnes (94260) · 763 € cc · Studio · 30 m²",
+      "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-323115"
+    },
     "PRV-325882": {
       "first_seen": "2026-10-28T21:24:06+00:00",
       "last_seen": "2026-10-29T01:04:59+00:00",
@@ -90,6 +96,12 @@
       "summary": "Paris (75015) · 598 € cc · Studio · 14.5 m²",
       "url": "https://www.inli.fr/location-chambre-paris-75015/PRV-341517"
     },
+    "PRV-341628": {
+      "first_seen": "2026-10-29T21:54:00+00:00",
+      "last_seen": "2026-10-29T21:54:00+00:00",
+      "summary": "Vitry Sur Seine (94400) · 764 € cc · Studio · 26.55 m²",
+      "url": "https://www.inli.fr/location-appartement-vitry-sur-seine-94400/PRV-341628"
+    },
     "PRV-346802": {
       "first_seen": "2026-10-21T18:56:58+00:00",
       "last_seen": "2026-10-22T00:36:14+00:00",
@@ -101,6 +113,12 @@
       "last_seen": "2026-10-27T23:47:22+00:00",
       "summary": "Fresnes (94260) · 600 € cc · Studio · 25.8 m²",
       "url": "https://www.inli.fr/location-appartement-fresnes-94260/PRV-354477"
+    },
+    "PRV-379659": {
+      "first_seen": "2026-10-29T21:54:00+00:00",
+      "last_seen": "2026-10-29T21:54:00+00:00",
+      "summary": "Courbevoie (92400) · 738 € cc · Studio · 25.15 m²",
+      "url": "https://www.inli.fr/location-appartement-courbevoie-92400/PRV-379659"
     }
   }
 }
