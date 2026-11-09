@@ -48,6 +48,12 @@
       "summary": "Vitry Sur Seine (94400) · 682 € cc · Studio · 28 m²",
       "url": "https://www.inli.fr/location-appartement-vitry-sur-seine-94400/PRV-241455"
     },
+    "PRV-241511": {
+      "first_seen": "2026-11-09T23:03:55+00:00",
+      "last_seen": "2026-11-09T23:03:55+00:00",
+      "summary": "Vitry Sur Seine (94400) · 686 € cc · Studio · 28 m²",
+      "url": "https://www.inli.fr/location-appartement-vitry-sur-seine-94400/PRV-241511"
+    },
     "PRV-241548": {
       "first_seen": "2026-11-05T12:48:39+00:00",
       "last_seen": "2026-11-05T12:48:39+00:00",
@@ -179,6 +185,12 @@
       "last_seen": "2026-10-30T01:24:14+00:00",
       "summary": "Courbevoie (92400) · 738 € cc · Studio · 25.15 m²",
       "url": "https://www.inli.fr/location-appartement-courbevoie-92400/PRV-379659"
+    },
+    "PRV-380342": {
+      "first_seen": "2026-11-09T23:03:55+00:00",
+      "last_seen": "2026-11-09T23:03:55+00:00",
+      "summary": "Villeneuve St Georges (94190) · 797 € cc · 2 pièces · 41.7 m²",
+      "url": "https://www.inli.fr/location-appartement-villeneuve-st-georges-94190/PRV-380342"
     }
   }
 }
