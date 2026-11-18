@@ -110,7 +110,7 @@
     },
     "PRV-318234": {
       "first_seen": "2026-11-05T20:18:11+00:00",
-      "last_seen": "2026-11-06T00:58:18+00:00",
+      "last_seen": "2026-11-18T21:33:06+00:00",
       "summary": "Fontenay Aux Roses (92260) · 630 € cc · Studio · 24.1 m²",
       "url": "https://www.inli.fr/location-appartement-fontenay-aux-roses-92260/PRV-318234"
     },
@@ -198,6 +198,12 @@
       "summary": "Villiers Sur Marne (94350) · 745 € cc · Studio · 26.35 m²",
       "url": "https://www.inli.fr/location-appartement-villiers-sur-marne-94350/PRV-345251"
     },
+    "PRV-346800": {
+      "first_seen": "2026-11-18T21:33:06+00:00",
+      "last_seen": "2026-11-18T21:33:06+00:00",
+      "summary": "Champigny Sur Marne (94500) · 782 € cc · 2 pièces · 41.8 m²",
+      "url": "https://www.inli.fr/location-appartement-champigny-sur-marne-94500/PRV-346800"
+    },
     "PRV-346802": {
       "first_seen": "2026-10-21T18:56:58+00:00",
       "last_seen": "2026-11-14T00:51:00+00:00",
@@ -215,6 +221,12 @@
       "last_seen": "2026-11-09T13:26:34+00:00",
       "summary": "Ablon Sur Seine (94480) · 588 € cc · Studio · 24.6 m²",
       "url": "https://www.inli.fr/location-appartement-ablon-sur-seine-94480/PRV-355358"
+    },
+    "PRV-364876": {
+      "first_seen": "2026-11-18T21:33:06+00:00",
+      "last_seen": "2026-11-18T21:33:06+00:00",
+      "summary": "Gennevilliers (92230) · 518 € cc · Studio · 23.7 m²",
+      "url": "https://www.inli.fr/location-appartement-gennevilliers-92230/PRV-364876"
     },
     "PRV-379659": {
       "first_seen": "2026-10-29T21:54:00+00:00",
